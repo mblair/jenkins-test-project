@@ -5,3 +5,6 @@ all:
 
 test:
 	@bash -n *.sh
+
+run:
+	@./blah.sh

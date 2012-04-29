@@ -2,4 +2,4 @@
 
 set -o errexit
 
-echo "Yo yo yo!"
+exit 1
