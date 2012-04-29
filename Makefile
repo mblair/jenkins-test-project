@@ -1,6 +1,6 @@
 SHELL=/usr/bin/env bash
 
-all::
+all:
 	@true
 
 test:
